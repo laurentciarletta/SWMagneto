@@ -3,5 +3,6 @@ channels:
  - conda-forge
 dependencies:
  - ipyvolume
+ - plotly
  - scipy
  - ipywidgets>=6.0.0
